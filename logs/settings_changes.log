@@ -1,0 +1,15 @@
+## 2026-10-25 19:14:57 before
+global window_animation_scale=1.0
+global transition_animation_scale=1.0
+global animator_duration_scale=null
+com.miHoYo.GenshinImpact current mode: performance, available game modes: [standard,performance,custom]
+com.miHoYo.GenshinImpact interventions: 
+[Name:com.miHoYo.GenshinImpact Modes: {1=[Game Mode:1,Scaling:1.0,Use Angle:false,Fps:,Loading Boost Duration:-1], 2=[Game Mode:2,Scaling:1.0,Use Angle:false,Fps:,Loading Boost Duration:-1]}]
+## 2026-10-25 19:14:58 after
+global window_animation_scale=0.5
+global transition_animation_scale=0.5
+global animator_duration_scale=0.5
+com.miHoYo.GenshinImpact current mode: custom, available game modes: [standard,performance,custom]
+com.miHoYo.GenshinImpact interventions: 
+[Name:com.miHoYo.GenshinImpact Modes: {1=[Game Mode:1,Scaling:1.0,Use Angle:false,Fps:,Loading Boost Duration:-1], 2=[Game Mode:2,Scaling:1.0,Use Angle:false,Fps:,Loading Boost Duration:-1], 4=[Game Mode:4,Scaling:1.0,Use Angle:false,Fps:,Loading Boost Duration:-1]}]
+## 2026-10-25 19:41:50 reverted Genshin downscale (no effect) -> com.miHoYo.GenshinImpact current mode: performance, available game modes: [standard,performance,custom]

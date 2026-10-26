@@ -1,0 +1,7 @@
+com.miHoYo.GenshinImpact current mode: performance, available game modes: [standard,performance,custom]
+com.miHoYo.GenshinImpact interventions: 
+[Name:com.miHoYo.GenshinImpact Modes: {1=[Game Mode:1,Scaling:1.0,Use Angle:false,Fps:,Loading Boost Duration:-1], 2=[Game Mode:2,Scaling:1.0,Use Angle:false,Fps:,Loading Boost Duration:-1]}]
+    versionCode=1242 minSdk=23 targetSdk=36
+    versionName=7.1.0_48052158_48145775
+standby_bucket=10
+RUN_ANY_IN_BACKGROUND: allow

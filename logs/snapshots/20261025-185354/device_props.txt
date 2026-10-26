@@ -1,0 +1,8 @@
+ro.product.model=SM-A546E
+ro.build.version.release=15
+ro.build.version.oneui=70000
+ro.build.PDA=A546EXXSFDYI1
+ro.build.version.security_patch=2025-09-01
+ro.soc.model=s5e8835
+ro.boot.flash.locked=1
+ro.boot.warranty_bit=0

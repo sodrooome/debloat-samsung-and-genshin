@@ -1,0 +1,3 @@
+List of devices attached
+RRCWC060B0T            device 20-3.4 product:a54xnsxx model:SM_A546E device:a54x transport_id:1
+

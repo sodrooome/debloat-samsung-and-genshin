@@ -1,0 +1,30 @@
+Tasks: 690 total,   1 running, 689 sleeping,   0 stopped,   0 zombie
+  Mem:  7615756K total,  7146816K used,   468940K free,     2756K buffers
+ Swap:  4194300K total,  1740228K used,  2454072K free,  2472768K cached
+800%cpu  68%user   3%nice 106%sys 610%idle   0%iow  10%irq   3%sirq   0%host
+  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS
+ 1558 u0_a49       20   0  19G 308M 145M S 35.4   4.1  52:21.04 com.android.systemui
+ 1101 system       18  -2  28G 515M 296M S 16.1   6.9 276:30.28 system_server
+11958 shell        20   0  10G 4.7M 3.6M R 12.9   0.0   0:00.10 top -b -n 1 -m 25
+ 2670 shell        20   0  10G 8.5M 2.8M S  9.6   0.1   0:17.58 adbd --root_seclabel=u:r:su:s0
+  809 system       -3  -8  11G  26M  15M S  9.6   0.3 169:57.97 surfaceflinger
+ 9582 root         20   0    0    0    0 I  6.4   0.0   0:02.78 [kworker/u16:2-five_hook_wq]
+21573 root         20   0    0    0    0 I  6.4   0.0   0:06.65 [kworker/u16:8-five_hook_wq]
+21594 root         20   0    0    0    0 I  3.2   0.0   0:01.34 [kworker/1:1-events]
+ 9038 u0_a298      20   0  19G  98M  45M S  3.2   1.3  20:00.78 com.sec.android.app.shealth:remote
+ 2505 u0_a280      20   0  16G  73M  42M S  3.2   0.9   0:35.55 com.google.android.ext.services
+ 1927 system       20   0  16G  48M  28M S  3.2   0.6   5:01.70 com.samsung.sec.android.teegris.tui_service
+  726 system       -3  -8  11G 5.9M 4.7M S  3.2   0.0  53:50.79 android.hardware.graphics.composer@2.4-service
+  170 root         RT   0    0    0    0 S  3.2   0.0   2:41.41 [fast_switch_post_worker_dm_cpucl1]
+   94 root         20   0    0    0    0 S  3.2   0.0  17:25.99 [kswapd0]
+   14 root         -2   0    0    0    0 I  3.2   0.0   6:27.34 [rcu_preempt]
+11509 root          0 -20    0    0    0 I  0.0   0.0   0:00.05 [kworker/u17:1-ufs_clk_gating_0]
+11483 root          0 -20    0    0    0 I  0.0   0.0   0:00.00 [kworker/6:0H-kblockd]
+10363 root         20   0    0    0    0 I  0.0   0.0   0:00.00 [kworker/0:0-events]
+10075 root         20   0    0    0    0 I  0.0   0.0   0:00.03 [kworker/7:1-events]
+ 9671 root         20   0    0    0    0 I  0.0   0.0   0:00.00 [kworker/3:1-rcu_gp]
+ 9624 root         20   0    0    0    0 I  0.0   0.0   0:00.00 [kworker/4:1]
+ 9623 root         20   0    0    0    0 I  0.0   0.0   0:00.00 [kworker/4:0-mm_percpu_wq]
+ 9578 root          0 -20    0    0    0 I  0.0   0.0   0:00.02 [kworker/0:0H-kblockd]
+ 9531 root         20   0    0    0    0 I  0.0   0.0   0:00.00 [kworker/2:0]
+ 9519 root         20   0    0    0    0 I  0.0   0.0   0:01.98 [kworker/u16:1-adb]

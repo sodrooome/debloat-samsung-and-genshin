@@ -1,0 +1,14 @@
+# Deliberately kept. Removing these causes bugs or makes gaming worse.
+com.samsung.android.game.gos          # Game Optimizing Service, removing can worsen throttling on One UI 7
+com.samsung.android.game.gametools    # Game Booster
+com.samsung.android.game.gamehome     # Game Launcher
+com.samsung.android.aware.service     # Quick Share
+com.samsung.android.service.stplatform # SmartThings platform
+com.samsung.android.mobileservice     # Samsung account services
+com.samsung.android.bbc.bbcagent      # Knox-related
+com.samsung.android.knox.attestation
+com.google.android.apps.turbo         # Device Health Services (adaptive battery)
+com.google.android.gms
+com.android.vending
+com.android.systemui
+com.sec.android.app.launcher

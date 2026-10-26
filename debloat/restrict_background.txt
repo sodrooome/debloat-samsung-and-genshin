@@ -1,0 +1,6 @@
+# Apps that scripts/tune.sh restricts in the background. They stay installed.
+# A restricted app can delay its notifications. Remove a line if you need that app's messages immediately.
+com.larksuite.suite           # Lark: 610 MB idle, highest CPU use of all apps (README 4.1)
+com.sec.android.app.shealth   # Samsung Health: 168 MB in the background
+# Telkomsel app: 126 MB in the background. Find the package name, then add it here:
+#   adb shell pm list packages --user 0 | grep -i telkomsel

@@ -1,0 +1,23 @@
+# Tier 2: only remove if you don't use the feature. Comment out anything you want to keep.
+# Bixby
+com.samsung.android.bixby.agent
+com.samsung.android.bixby.wakeup
+# Link to Windows / call & text on other devices
+com.microsoft.appmanager
+com.samsung.android.mdx
+com.samsung.android.mdx.kit
+com.samsung.android.mdecservice
+# OneDrive
+com.microsoft.skydrive
+# Samsung Pass
+com.samsung.android.samsungpass
+com.samsung.android.samsungpassautofill
+# Customization Service (less personalised suggestions)
+com.samsung.android.rubin.app
+# Gemini, Google Meet
+com.google.android.apps.bard
+com.google.android.apps.tachyon
+# Hiya caller ID / spam detection
+com.hiya.star
+# Galaxy Watch stub
+com.samsung.android.app.watchmanagerstub

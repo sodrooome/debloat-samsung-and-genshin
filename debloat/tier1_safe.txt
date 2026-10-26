@@ -1,0 +1,19 @@
+# Tier 1: safe, recommended. One package per line; '#' lines are ignored.
+# Facebook preinstall stubs
+com.facebook.appmanager
+com.facebook.services
+com.facebook.system
+# Samsung telemetry
+com.samsung.android.dqagent
+# AR Emoji / stickers
+com.samsung.android.aremoji
+com.samsung.android.aremojieditor
+com.sec.android.mimage.avatarstickers
+com.samsung.android.stickercenter
+# Kids / parental
+com.samsung.android.kidsinstaller
+com.samsung.android.app.parentalcare
+# Leftovers
+com.samsung.android.smartswitchassistant
+com.sec.android.widgetapp.easymodecontactswidget
+com.samsung.android.app.dressroom

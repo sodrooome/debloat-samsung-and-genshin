@@ -1,0 +1,16 @@
+com.apple.movetoios
+com.google.android.apps.docs
+com.google.android.apps.googleassistant
+com.google.android.gms.supervision
+com.jetbrains.youtrack.mobile.app
+com.kakaogames.gdts
+com.koushikdutta.vysor
+com.paxel
+com.pure.indosat.care
+com.samsung.android.knox.zt.framework
+com.samsung.android.rajaampat
+com.samsung.android.themestore
+com.sandisk.smz2
+com.sec.android.app.voicenote
+com.srin.indramayu
+tech.httptoolkit.android.v1
